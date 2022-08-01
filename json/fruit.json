@@ -1,0 +1,222 @@
+ [
+  {
+    "id": 44,
+    "title": "Fresh Coconut - 1 Piece",
+    "body": "This Fresh Coconut is a naturally cultivated food item with high mineral content. Its coconut oil helps to increase good (HDL) cholesterol and lowers bad (LDL) cholesterol. The coconut contains an abundance of fiber that keeps your digestive system healthy and helps to maintain regular bowel movement. This fresh coconut also provides water, milk, and coconut flesh that may aid in weight loss.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00422.jpg",
+    "weight": "",
+    "piece": "1 piece",
+    "price":  36.99,
+    "amount": 10,
+    "sale": false,"calories":42,"brand":"freshfood"
+  },
+  {
+    "id": 45,
+    "title": "Lemon Baladi, Fresh 500g",
+    "body": " Fresh produce has been carefully handpicked and exclusively selected by our very own team of specialist buyers. We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/l/e/lemon-balaldi-photo-recovered.jpg  ",
+    "weight": "500 g",
+    "piece": "",
+    "price":  38.99,
+    "amount": 10,
+    "sale": false,"calories":32,"brand":"gourmet"
+  },
+  {
+    "id": 46,
+    "title": "White Grapes, Fresh 500g",
+    "body": "We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, ",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/g/r/grapes-photo.jpg",
+    "weight": "500 g",
+    "piece": "",
+    "price":  19.00,
+    "amount": 10,
+    "sale": false,"calories":55,"brand":"gourmet"
+  },
+  {
+    "id": 47,
+    "title": "Fresh Black Berries - 125g",
+    "body": "The Fresh Black Berries contain a high piece of vitamin C that is necessary for producing collagen and vital for wound healing. They are an excellent source of fiber and help in regulating blood sugar levels. These blackberries also contain antioxidants that help your body to fight against the harmful impact of free radicals.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00520.jpg",
+    "weight": "125 g",
+    "piece": "",
+    "price":  149.99,
+    "amount": 10,
+    "sale": false,"calories":22,"brand":"freshfood"
+  },
+  {
+    "id": 48,
+    "title": "White Flesh Dragon Fruit - 750g",
+    "body": "The White Flesh Dragon Fruit is an ideal fruit for all the health-conscious people. Being an antioxidant-rich fruit, it helps in preventing chronic diseases such as heart attack, diabetes and cancer. It also has vitamin C and carotenoids that boost your immune system and protect against the damage of white blood cells. You can add this white flesh dragon fruit to your salads, smoothies and yoghurt to make it a nutrient-rich snack.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00548.jpg",
+    "weight": "750g",
+    "piece": "",
+    "price":  623.87,
+    "amount": 10,
+    "sale": false,"calories":36,"brand":"freshfood"
+  },
+  {
+    "id": 49,
+    "title": "Fresh Raspberries - 125g",
+    "body": "Keep your body fit and healthy with these Fresh Raspberries. Being rich in gallic acid and flavonoids quercetin, these raspberries protect against cardiovascular diseases, age-related problems and obesity. Its antioxidant-rich properties are beneficial for your neurological system and brain. It also prevents cancer by handling abnormal cell division in the human body. You can include these raspberries in your breakfast as a healthy kickstart to your day. With its rich vitamin C content, these raspberries make for a deliciously healthy treat.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00522.jpg",
+    "weight": "125g",
+    "piece": "",
+    "price":  148.23,
+    "amount": 10,
+    "sale": false,"calories":32,"brand":"freshfood"
+  },
+  {
+    "id": 50,
+    "title": "Half Watermelon, Fresh",
+    "body": "Conveniently halved, sweet & crisp watermelon! Have the season's best fruit cold, on a warm summer day. Keep hydrated and enjoy the sweetness of the watermelon",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/2/0/2028001000000.jpg",
+    "weight": "",
+    "piece": "1 piece",
+    "price":  56.99,
+    "amount": 10,
+    "sale": false,"calories":42,"brand":"gourmet"
+  },
+  {
+    "id": 51,
+    "title": "Very Valencia Oranges Box -2.5kg",
+    "body": "The Very Valencia Oranges Box has a rich aroma combined with a luscious, delightful flavor. The oranges are handpicked from Egypt's best farms and tested for their sugar levels. Oranges are known to boost skin health, regulate blood pressure and treat dehydration, and these oranges are no different. Refresh your taste buds with an energizing orange drink or simply consume it as it is, to get rid of the summer discomfort.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00717.jpg",
+    "weight": "2.5 kg",
+    "piece": "",
+    "price":  51.25,
+    "amount": 10,
+    "sale": true,"calories":55,"brand":"freshfood"
+  },
+  {
+    "id": 52,
+    "title": "Ripe Hass Avocado, Peru",
+    "body": "Deliciously ripe and ready to be immediately devoured! Imported from Peru, these avocados are ready to be eaten alone, placed on a salad or in a smoothie. Tender and ripe, they can be easily mashed with a fork or a spoon with zero trouble! Peruvian Hass avocados have a soft texture, a dark-green colour and a creamy, slightly nutty flavour. They are free of cholesterol and sodium, and contain almost 20 vitamins and minerals.",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6028313000009.jpg",
+    "weight": "1 kg",
+    "piece": "",
+    "price":  82.99,
+    "amount": 10,
+    "sale": false,"calories":63,"brand":"gourmet"
+  },
+  {
+    "id": 53,
+    "title": "Fresh Mango Zibdia - 1kg",
+    "body": "",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00244.jpg",
+    "weight": "1 kg",
+    "piece": "",
+    "price":  30.99,
+    "amount": 10,
+    "sale": false,"calories":67,"brand":"freshfood"
+  },
+  {
+    "id": 54,
+    "title": "Dried Cranberries - 500g",
+    "body": "Start your day on a healthy note with these Dried Cranberries. Being a powerhouse of antioxidants, these cranberries are beneficial for reducing the risk of heart diseases and cancer. It is also helpful for maintaining urinary tract health in women. You can include these dried cranberries in oatmeal, smoothies and baked desserts to make them more nutritious. Because of its low-calorie content, these cranberries make for an ideal healthy and tasty snack.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00631.jpg",
+    "weight": "500g",
+    "piece": "",
+    "price":  289.99,
+    "amount": 10,
+    "sale": true,"calories":72,"brand":"freshfood"
+  },
+  {
+    "id": 55,
+    "title": "Mixed Berries, Imported",
+    "body": "With a juicy tart flavour, this superfood boosts brain health, and is said to help with concentration and memory. Sprinkle over granola, pancakes, yogurt or add to your baked goods",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6027924000002.jpg",
+    "weight": "150g",
+    "piece": "",
+    "price":  182.99,
+    "amount": 10,
+    "sale": false,"calories":54,"brand":"gourmet"
+  },
+  {
+    "id": 56,
+    "title": "Imported Cherry",
+    "body": "These sweet luscious cherries are the perfect treat this summer. Rich in antioxidants, enjoy them as a snack, for dessert or include them in your baking creations. They make a great cheesecake topping!",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/c/h/cherries.jpg",
+    "weight": "1kg",
+    "piece": "",
+    "price":  135.99,
+    "amount": 10,
+    "sale": false
+  },
+  {
+    "id": 57,
+    "title": "Summer Fruit Skewers",
+    "body": "Share the fruity entertainment with Gourmet’s Fruit platter. A luscious medley of fresh seasonal fruits; this rainbow of sweetness is your ticket to a guiltless, juicy, happy get-together!",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/s/a/salad4-photo_1_.jpg",
+    "weight": "500g",
+    "piece": "",
+    "price":  95.00,
+    "amount": 10,
+    "sale": false,"calories":42,"brand":"gourmet"
+  },
+  {
+    "id": 58,
+    "title": "Yellow Papaya, Fresh 1kg",
+    "body": "We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured;",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/b8cd361684aa05088effd025b326e607/p/a/papaya-photo_1.jpg",
+    "weight": "1kg",
+    "piece": "",
+    "price":  53.99,
+    "amount": 10,
+    "sale": false,"calories":52,"brand":"gourmet"
+  },
+  {
+    "id": 59,
+    "title": "Imported Red Apples - 1kg",
+    "body": "These Imported Red Apples are healthy and delicious. They are full of anthocyanin pigments that act as antioxidants. These pigments help to reduce the risk of various diseases, including certain cancers and diabetes. The apples contain other polyphenols that may improve or treat digestive issues. Also, the anti-inflammatory compounds present in these red apples aid in maintaining bone strength and density. Use them in smoothies and milkshakes to make a belly-filling treat.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00116.jpg",
+    "weight": "1kg",
+    "piece": "",
+    "price":  52.99,
+    "amount": 10,
+    "sale": true,"calories":33,"brand":"freshfood"
+  },
+  {
+    "id": 60,
+    "title": "Prickly Pears, Gourmet Fresh 1Pc",
+    "body": "We are proud of our local farms and have built strong partnerships based on trust, fairness, value, and a passion for delivering the highest-quality ingredients; from farm-to-table. Through our well-established relationships with our trusted farms, we strive to source crops harvested from nutrient-filled soil, utilizing only the best, clean agricultural practices. Rest assured",
+    "image": "https://cdn.gourmetegypt.com/media/catalog/product/cache/2b4d21b90ad5abb98380bc0a709a4ac8/6/0/6027996000009-photo.jpg",
+    "weight": "",
+    "piece": "1 piece",
+    "price":  3.99,
+    "amount": 10,
+    "sale": false,"calories":42,"brand":"gourmet"
+  },
+  {
+    "id": 61,
+    "title": "Sweet Tamarinds - 500g",
+    "body": "The Sweet Tamarind is ideal for lowering your blood pressure and keeping your bones healthy. Being a rich source of copper and selenium, this tamarind not only aids healthy connective tissue and neurotransmission but also helps in maintaining your immune system. It also has B vitamins for the proper functioning of muscles and brain. With its high nutritional and medicinal value, this fruit heals abdominal pain and wounds.",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00555.jpg",
+    "weight": "500g",
+    "piece": "",
+    "price":  289.99,
+    "amount": 10,
+    "sale": true,"calories":35,"brand":"freshfood"
+  },
+  {
+    "id": 62,
+    "title": "Watermelon Seedless Red - 1kg",
+    "body": "",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/aa00029.jpg",
+    "weight": "1kg",
+    "piece": "",
+    "price":  15.99,
+    "amount": 10,
+    "sale": false,"calories":71,"brand":"freshfood"
+  },
+  {
+    "id": 63,
+    "title": "American Red Apples - 1kg",
+    "body": "",
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/AA00035.jpg",
+    "weight": "1kg",
+    "piece": "",
+    "price":  73.34,
+    "amount": 10,
+    "sale": false,"calories":28,"brand":"freshfood"
+  }
+]

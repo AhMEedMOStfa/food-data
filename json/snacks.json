@@ -1,0 +1,272 @@
+ [
+  {
+    "id": 195,
+    "title": "Lays Stax Original Potato Chips",
+    "weight": "163g",
+    "price":  65.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP00945.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 196,
+    "title": "Lays Potato Salt&Vineg.",
+    "weight": "155g",
+    "price":  65.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP01028.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 197,
+    "title": "Lays Barbeque Flv Potato Chips",
+    "weight": "184g",
+    "price":  125.90,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP01543.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 198,
+    "title": "Lays Salt & Vinegar Potato Chips",
+    "weight": "184g",
+    "price":  125.98,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP01544.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": true,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 199,
+    "title": "Lays Saveur Formage",
+    "weight": "75g",
+    "price":  75.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP02711.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 200,
+    "title": "Lays Roast Chick Flv Potato Chips",
+    "weight": "75g",
+    "price":  65.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP02043.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 201,
+    "title": "Cheetos Cheese Flavored Puffs",
+    "weight": "255g",
+    "price":  135.9,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP00794.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 202,
+    "title": "Cheetos Crunchy W/Cheese",
+    "weight": "255g",
+    "price":  120.97,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BP00797.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": true,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 203,
+    "title": "Milka Bubbly White Choco",
+    "weight": "95g",
+    "price":  30.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/KD03855.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 204,
+    "title": "rauch apple juice cans",
+    "weight": "355ml",
+    "price":  20.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LE02749.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 205,
+    "title": "Nairns Oat Bis.Mix.Berries",
+    "weight": "200g",
+    "price":  70.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BV05021.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 206,
+    "title": "Nairns Oat Bis.Stem Ging",
+    "weight": "200g",
+    "price":  65.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BV05022.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": true,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 207,
+    "title": "Heinz Mayonnaise",
+    "weight": "285g",
+    "price":  18.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BD01756.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 208,
+    "title": "Mcvities Minis Digestive.D.Biscuit",
+    "weight": "40g",
+    "price":  4.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BV06857.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 209,
+    "title": "Roshen Milky Splash",
+    "weight": "150g",
+    "price":  42.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/KC04740.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 210,
+    "title": "Sprite Zero Bottle",
+    "weight": "330g",
+    "price":  4.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LD01923.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 211,
+    "title": "Almarai Juice Mango Combi",
+    "weight": "1L",
+    "price":  20.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LE03891.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 212,
+    "title": "Almarai Juice Guava Combi",
+    "weight": "1L",
+    "price":  18.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LE03893.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 213,
+    "title": "Milka Dark Almond Choco",
+    "weight": "85g",
+    "price":  31.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/KD04944.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 214,
+    "title": "Gullon Mini Fish Biscuit",
+    "weight": "350g",
+    "price":  65.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BV07209.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 215,
+    "title": "Nicola Bocage 30 Coffee Caps-Nesspreso",
+    "weight": "",
+    "price":  199.9,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BL04980.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 216,
+    "title": "Nicola Rossio 30 Coffee Caps- Nesspreso",
+    "weight": "",
+    "price":  199.9,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BL04981.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 217,
+    "title": "Nicola Selecto 30 Coffee Caps- Nesspreso",
+    "weight": "",
+    "price":  199.9,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BL04985.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 218,
+    "title": "Nicola Mundi 30 Coffee Capsule Nesspreso",
+    "weight": "",
+    "price":  199.9,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BL04986.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": true,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 219,
+    "title": "Gullon Crackers Classic",
+    "weight": "300g",
+    "price":  42.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/BV07222.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": true,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 220,
+    "title": "Schweppes Tangerine w/Pulp Can",
+    "weight": "300ml",
+    "price":  4.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LD00067.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  },
+  {
+    "id": 221,
+    "title": "Schweppes Club Soda",
+    "weight": "1L",
+    "price":  11.99,
+    "image": "https://freshfood-website-images.s3.eu-west-1.amazonaws.com/products/LD00972.jpg",
+    "brandUrl": "https://new.freshfood-market.com/",
+    "amount": 10,
+    "sale": false,"calories":160,"brand":"freshfood"
+  }
+]
