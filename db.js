@@ -1,15 +1,16 @@
-import bakery from "./json/bakery";
-import chicken from "./json/chicken";
-import fruit from "./json/fruit";
-import home from "./json/home";
-import keto from "./json/keto";
-import lowCarb from "./json/lowCarb";
-import meals from "./json/meals";
-import meat from "./json/meat";
-import snacks from "./json/snacks";
-import supplements from "./json/supplements";
-import vegan from "./json/vegan";
-import vegetables from "./json/vegetables";
+const bakery = require( "./json/bakery");
+const chicken = require( "./json/chicken");
+const fruit = require( "./json/fruit");
+const home = require( "./json/home");
+const keto = require( "./json/keto");
+const lowCarb = require( "./json/lowCarb");
+const meals = require( "./json/meals");
+const meat = require( "./json/meat");
+const snacks = require( "./json/snacks");
+const supplements = require( "./json/supplements");
+const vegan = require( "./json/vegan");
+const vegetables = require( "./json/vegetables");
+
 
 export default {
   bakery,
